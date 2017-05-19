@@ -20,7 +20,7 @@
 
                     <div class="freebirdFormviewerViewHeaderTitleRow">
 
-                        <div class="freebirdFormviewerViewHeaderTitle" dir="auto" role="heading" aria-level="1">Caminata RÍO SAN FRANCISCO O VICACHA Domingo 14 de Mayo 2017</div>
+                        <div class="freebirdFormviewerViewHeaderTitle" dir="auto" role="heading" aria-level="1">Caminata CERRO LA AGUADORA Domingo 11 de Junio 2017</div>
 
                     </div>
 <br>
@@ -32,21 +32,21 @@
 
                                 <li class="elmnt-one">                                 
 
-                                        <div class="wrap"><img src="public/Img/vica.jpg"  height="400">
+                                        <div class="wrap"><img src="public/Img/agua.jpg"  height="400">
 
                                         </div>                                   
                                 </li>
 
                                <li class="elmnt-two">
                                     
-                                        <div class="wrap"><img src="public/Img/vica1.jpg"  height="400">
+                                        <div class="wrap"><img src="public/Img/agua1.jpg"  height="400">
 
                                         </div>                                 
                                 </li>
 
                                  <li class="elmnt-three">
                                     
-                                        <div class="wrap"><img src="public/Img/vica2.jpg"  height="400">
+                                        <div class="wrap"><img src="public/Img/agua3.jpg"  height="400">
 
                                         </div>                                 
                                 </li>
@@ -76,21 +76,24 @@
 
                         <h2>Ubicación</h2>
 
-                        <p><font size="3">El sendero del río San Francisco o Vicachá está ubicado en la localidades de Candelaria y Santafé que marcaba el límite norte de Bogotá en sus primeros años de fundación. Nace en el páramo de Cruz Verde y baja por el canon entre los  cerros de Monserrate y Guadalupe. Al llegar a la ciudad en la Quinta de Bolívar es canalizado. En la actual avenida Jiménez con calle Sexta confluye por debajo de la tierra con el río San Agustín.</font></p>
+                        <p><font size="3">El sendero se encuentra ubicado en la localidad de Usaquén, desde el mirador en el sendero se puede apreciar la panorámica de la ciudad en el sector norte, van apareciendo algunas de quebradas que surgen de los cerros orientales como: rio molino, la Floresta, la Cita y la chorrera.
+                        El sendero permite que los visitantes recorran ambientes de bosques de pino y también relictos de vegetación nativa propia de Bogotá y el altiplano cundiboyacense; además de transitar por uno de los corredores biológicos y refugios de hábitat de las especies de flora y fauna de la ciudad.</font></p>
 
                         <h2>Descripción del recorrido </h2>
 
-                        <p><font size="3">El recorrido da inicio en la Plazoleta del Rosario ubicada frente a la estación Museo del oro, donde se realizará un calentamiento de aproximadamente 20 minutos, el guía de caminatas del IDRD dará las recomendaciones, así como las prohibiciones y restricciones propias del recorrido y necesarias para su ejecución. Se dará inicio a la caminata desde la carrera 7ª con avenida Jiménez desplazándose hacia el oriente por el eje ambiental hasta llegar a la avenida circunvalar e ingresando a los predios del acueducto. En este sector se construyó un sendero por en bosque de niebla que conduce al mirador donde se puede apreciar el centro de la ciudad. El sendero en descenso nos lleva a la universidad distrital y de allí a la avenida Jiménez con carrera 3ª donde finaliza la caminata.</font></p>
+                        <p><font size="3">El recorrido da inicio en la carrera 7a con calle 116 en el centro comercial Hacienda Santa Bárbara donde se realizara un calentamiento de aproximadamente 20 minutos, el guía de caminatas del IDRD dará las recomendaciones de la actividad y se iniciará  con un desplazamiento hasta la plaza fundacional de Usaquén conociendo aspectos históricos y culturales de la plaza.
+                        Luego se toma la vía por el costado izquierdo de la iglesia hasta llegar a los predios de la empresa de acueducto y alcantarillado de Bogotá camino al club la aguadora de dicha empresa, a pocos metros se toma un sendero a la izquierda que nos lleva por bosques de pinos y eucaliptos , luego se sale de ese sendero y nos internamos por un hermoso camino en medio de la vegetación nativa hasta llegar al primer mirador.
+                        Continuamos en un ascenso fuerte que nos lleva a las antenas ubicadas en el cerro, desde allí se puede contemplar gran parte de la sabana de Bogotá y el embalse de San Rafael, por ser un magnífico lugar es adecuado para hacer una parada de descanso y refrigerio.
+                        El descenso se hace por el costado izquierdo por un camino muy empinado sobre la cuchilla, que nos desciende hasta el carretero que va al club la Aguadora y de allí  a la plaza de Usaquén, donde termina la actividad.</font></p>
 
                         <h2>Durante el recorrido se visitaran los siguientes atractivos:</h2>
                         <ul class="ul_inicio">
                             <font size="3">
-                            <li>Históricos</li>
-                            <li>Culturales</li>
-                            <li>Arquitectónicos</li>
-                            <li>Hídricos</li>
-                            <li>Ambientales</li>
+                            <li>Plaza fundacional de Usaquén</li>
+                            <li>Bosque nativo </li>
+                            <li>Miradores</li>
                             <li>Ecosistema de niebla y sub- páramo</li>
+                            <li>Luego de pasar por los atractivos el recorrido concluirá en la plaza fundacional de Usaquén</li>
                             </font>
                         </ul>
                         <br>
@@ -111,7 +114,7 @@
 
                                         <td width="282" bgcolor="#ffffff" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>Plazoleta del Rosario, frente a la estación Museo del Oro. (Av. Jiménez carrera 6)</p>
+                                            <p>Carrera 7a calle 116 Centro comercial Hacienda Santa Barbara</p>
 
                                         </td>
 
@@ -127,7 +130,7 @@
 
                                         <td width="282" bgcolor="#deeaf6" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>Domingo 14 de Mayo 2017</p>
+                                            <p>Domingo 11 de Junio 2017</p>
 
                                         </td>
 
@@ -159,7 +162,7 @@
 
                                         <td width="282" bgcolor="#deeaf6" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>40 Personsa</p>
+                                            <p>50 Personsa</p>
 
                                         </td>
 
@@ -193,7 +196,7 @@
 
                                         <td width="282" bgcolor="#deeaf6" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>2.800 m.s.n.m</td>
+                                            <p>3.000 m.s.n.m</td>
 
                                     </tr>
 
@@ -207,7 +210,7 @@
 
                                         <td width="282" bgcolor="#ffffff" style="border: 1px solid #9cc2e5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>14°</p>
+                                            <p>12°</p>
 
                                         </td>
 
